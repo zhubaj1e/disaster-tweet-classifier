@@ -1,0 +1,21 @@
+Disaster Tweet Classification Results
+==================================================
+
+Tweet: BREAKING: Massive earthquake hits California, buildings collapsed
+Prediction: DISASTER (Confidence: 99.6%)
+
+Tweet: Forest fire spreading rapidly in Oregon, evacuations ordered
+Prediction: DISASTER (Confidence: 99.6%)
+
+Tweet: Tsunami warning issued for coastal areas after underwater earthquake
+Prediction: DISASTER (Confidence: 99.6%)
+
+Tweet: Just watched a disaster movie, it was so good!
+Prediction: NOT DISASTER (Confidence: 89.7%)
+
+Tweet: My kitchen is a war zone after cooking dinner
+Prediction: NOT DISASTER (Confidence: 97.2%)
+
+Tweet: This concert is absolutely fire! Best night ever!
+Prediction: NOT DISASTER (Confidence: 86.9%)
+
